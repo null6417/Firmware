@@ -17,3 +17,6 @@ X CARRAGE REALLIGNMENT FOR DUAL Z
 
 
 *you will need the jumper pins for sensorless homng to be placed on the z and x axis pins.
+
+--- YOU WILL NEED TO MANUALLY REVERSE STEPPER MOTOR DIRECTION ON 1 MOTOR BY SWAPPING WIRES ---
+you can find a guide on how to do that here: https://youtu.be/AgyNM7FQrmk?t=106 
